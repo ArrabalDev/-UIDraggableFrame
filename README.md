@@ -1,4 +1,4 @@
-# 🖼 • UIDraggableFrame
+# 🖼 • UIDraggableFrame (Dark and Transparent)
 ```
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
