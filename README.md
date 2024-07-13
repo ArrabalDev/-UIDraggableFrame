@@ -29,7 +29,7 @@ ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Frame.Parent = ScreenGui
 Frame.BackgroundTransparency = 0.5
-Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255) -- Alterado para branco
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255) -- Alterado para branco (@ArrabalDev)
 Frame.Position = UDim2.new(0.5, 0, 0.5, 0)
 Frame.Size = UDim2.new(0.3, 0, 0.3, 0)
 Frame.AnchorPoint = Vector2.new(0.5, 0.5)
@@ -50,7 +50,7 @@ ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Frame.Parent = ScreenGui
 Frame.BackgroundTransparency = 0.5
-Frame.BackgroundColor3 = Color3.fromRGB(0, 122, 255) -- Alterado para azul
+Frame.BackgroundColor3 = Color3.fromRGB(0, 122, 255) -- Alterado para azul (@ArrabalDev)
 Frame.Position = UDim2.new(0.5, 0, 0.5, 0)
 Frame.Size = UDim2.new(0.3, 0, 0.3, 0)
 Frame.AnchorPoint = Vector2.new(0.5, 0.5)
